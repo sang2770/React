@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sang2770/React.git/static/css/main.2e4866af.chunk.css",
+    "main.js": "/sang2770/React.git/static/js/main.bd6926e8.chunk.js",
+    "main.js.map": "/sang2770/React.git/static/js/main.bd6926e8.chunk.js.map",
+    "runtime-main.js": "/sang2770/React.git/static/js/runtime-main.41376eba.js",
+    "runtime-main.js.map": "/sang2770/React.git/static/js/runtime-main.41376eba.js.map",
+    "static/js/2.3944857d.chunk.js": "/sang2770/React.git/static/js/2.3944857d.chunk.js",
+    "static/js/2.3944857d.chunk.js.map": "/sang2770/React.git/static/js/2.3944857d.chunk.js.map",
+    "static/js/3.32a89155.chunk.js": "/sang2770/React.git/static/js/3.32a89155.chunk.js",
+    "static/js/3.32a89155.chunk.js.map": "/sang2770/React.git/static/js/3.32a89155.chunk.js.map",
+    "index.html": "/sang2770/React.git/index.html",
+    "static/css/main.2e4866af.chunk.css.map": "/sang2770/React.git/static/css/main.2e4866af.chunk.css.map",
+    "static/js/2.3944857d.chunk.js.LICENSE.txt": "/sang2770/React.git/static/js/2.3944857d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41376eba.js",
+    "static/js/2.3944857d.chunk.js",
+    "static/css/main.2e4866af.chunk.css",
+    "static/js/main.bd6926e8.chunk.js"
+  ]
+}
